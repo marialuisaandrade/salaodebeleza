@@ -1,0 +1,33 @@
+body {
+    background: white;
+}
+
+.titulo-principal {
+    text-align: left;
+    padding-left: 20px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.sobre-barbearia {
+    background-color: azure;
+}
+
+.titulo-centralizado {
+    border: 5px solid #1f18ef;
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+.lista {
+    text-align: center;
+    
+}
