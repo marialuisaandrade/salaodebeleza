@@ -16,7 +16,7 @@ body {
 }
 
 .titulo-centralizado {
-    border: 5px solid #1f18ef;
+    border: 5px solid #59028b;
     text-align: center;
 }
 p {
@@ -24,7 +24,7 @@ p {
 }
 
 em strong {
-    color: red;
+    color: rgb(1, 11, 148);
 }
 
 .lista {
